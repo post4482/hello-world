@@ -1,2 +1,1 @@
-# hello-world
-tutorial repository
+어케하는거야 
